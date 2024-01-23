@@ -1,6 +1,6 @@
 # PassW
 A Python script to generate random passwords
-Password Generator and Manager
+Password Generator and Manager (Spanish)
 
 This Python script is part of a small project that puts Python knowledge into practice. It serves as an application that generates random passwords and stores them in a text document, associating each password with the user-provided name of a website or application. The script prompts the user for the desired password length, complexity level (low, medium, or high), and the name of the website or app for which the password will be used.
 
