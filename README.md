@@ -9,4 +9,6 @@ Medium complexity: Generates passwords with lowercase and uppercase letters, as 
 High complexity: Generates passwords with lowercase and uppercase letters, numbers, and punctuation marks.
 Upon saving and exiting, the script automatically creates a text document (or updates an existing one) where the names of websites/apps are stored along with their corresponding passwords.
 
+Please note that this repository includes only the Python code for the script. To properly visualize the graphical interface, it is necessary to download the various libraries specified at the top of the file.
+
 Feel free to utilize, enhance, and contribute to this Python script. Your feedback and improvements are highly encouraged!
